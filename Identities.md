@@ -52,8 +52,26 @@ alternatively, using sine and cosine half-angle formulas, this ca be rewriten
 $tan(\theta/2) = sin\theta/(1 + cos\theta)$  
 or  
 $tan(\theta/2) = (1 - cos\theta)/sin\theta$  
-
 Half-angle formulas are very useful in trigonometry for simplifying expressions and solving equations involving trigonometric function.  
+
+6. Factorization of the difference of squares  
+$x^2 - a^2 = (x + a)(x - a)$  
+7. Geometric series  
+$\sum^\infty_n x^n = 1/(1 - x) for |x| < 1$  
+and  
+$\sum^\N_n x^n = 1 - x^{N+1}/(1 - x) for all x$  
+8. Binominal theorem
+$(x + y)^N = \sum^N_{n=0}\binom{N}{n}x^{N-n}y^n$  
+$ = {(N!)\over n!(N-n)} {x^{N-n}y^n}$  
+9. Power series for the exponential  
+$e^x = \sum^\infty_{n=0}{1\over n!}x^n$  
+10. Relation of trig functions to exponentials
+    
+$cos\theta = {1\over 2}{e^{i\theta} + e^{-i\theta}}$  
+$sin\theta = {1\over 2i}{e^{i\theta} - e^{-i\theta}}$  
+10. Relation of hyp functions to exponentials  
+$cosh x = {1\over 2}{e^{x} + e^{-x}}$  
+$sinh x = {1\over 2i}{e^{x} - e^{-x}}$   
 
 
 
