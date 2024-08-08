@@ -6,15 +6,15 @@ $$r_{1,2} = {-b\pm\sqrt{b^2 - 4ac} \over 2a}.$$
 2. Fundamental trigonometric identity
 $$cos^2\theta + sin^2\theta = 1.$$
 
-3. Trigonometric definitions
-$sec\theta = 1/cos\theta$
-$tan\theta = sin\theta/cos\theta$
-$cosec\theta = 1/sin\theta$
-$cotan\theta = cos\theta/sin\theta$
+3. Trigonometric definitions  
+$sec\theta = 1/cos\theta$  
+$tan\theta = sin\theta/cos\theta$  
+$cosec\theta = 1/sin\theta$  
+$cotan\theta = cos\theta/sin\theta$  
 
-4. Double angle formula
-$cos2\theta = cos^2\theta - sin^2\theta$
-$sin2\theta = 2sin\theta cos\theta$
+4. Double angle formula  
+$cos2\theta = cos^2\theta - sin^2\theta$  
+$sin2\theta = 2sin\theta cos\theta$  
 
 
 5. Half angle formula
