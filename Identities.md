@@ -26,7 +26,7 @@ solving for  $sin(\theta/2)$, we get
 $2sin^2(\theta/2) = 1 - cos\theta$  
 $sin^2(\theta/2) = (1 - cos\theta)/2$  
 Taking the square root  
-$sin(\theta/2) = \sqrt{(1 - cos\theta)\over 2}$  
+$sin(\theta/2) = \pm\sqrt{(1 - cos\theta)\over 2}$  
 The sign depends on the quadrant of $\theta/2$  
    1. Cosine half-angle formula  
 Starting from the same double angle formula  
@@ -37,7 +37,25 @@ solving for $cos(\theta/2)$ , we get
 $2cos^2(\theta/2) = 1 + cos\theta$  
 $cos^2(\theta/2) = (1 + cos\theta)/2$  
 taking the square root:  
-$cos(\theta/2) = \sqrt{(1 + cos\theta)\over 2}$ 
+$cos(\theta/2) = \pm\sqrt{(1 + cos\theta)\over 2}$  
 The sign depend on the quadrant of $\theta/2$  
+   1. Tangent half angle formula
+Using the double angle formula for tangent:  
+$tan(2\theta) = (2tan\theta)/(1 - tan^2\theta)$  
+replace $\theta$  with $\theta/2$  
+$tan(\theta) = (2tan(\theta/2))/(1 - tan^2(\theta/2))$  
+Let $t = tan(\theta/2)$  . Then  
+$tan(\theta) = 2t/(1 - t^2)$  
+Solving for $t$:  
+$t = tan(\theta/2) = \pm\sqrt{1 - cos\theta\over 1 + cos\theta}$  
+alternatively, using sine and cosine half-angle formulas, this ca be rewriten  
+$tan(\theta/2) = sin\theta/(1 + cos\theta)$  
+or  
+$tan(\theta/2) = (1 - cos\theta)/sin\theta$  
+
+Half-angle formulas are very useful in trigonometry for simplifying expressions and solving equations involving trigonometric function.  
+
+
+
 
 
