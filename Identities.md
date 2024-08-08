@@ -67,11 +67,11 @@ $ = {(N!)\over n!(N-n)} {x^{N-n}y^n}$
 $e^x = \sum^\infty_{n=0}{1\over n!}x^n$  
 10. Relation of trig functions to exponentials
     
-$cos\theta = {1\over 2}{e^{i\theta} + e^{-i\theta}}$  
-$sin\theta = {1\over 2i}{e^{i\theta} - e^{-i\theta}}$  
+$cos\theta = {1\over 2}({e^{i\theta} + e^{-i\theta}})$  
+$sin\theta = {1\over 2i}({e^{i\theta} - e^{-i\theta}})$  
 10. Relation of hyp functions to exponentials  
-$cosh x = {1\over 2}{e^{x} + e^{-x}}$  
-$sinh x = {1\over 2i}{e^{x} - e^{-x}}$   
+$cosh x = {1\over 2}({e^{x} + e^{-x}})$  
+$sinh x = {1\over 2i}({e^{x} - e^{-x}})$   
 
 
 
