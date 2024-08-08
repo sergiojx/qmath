@@ -61,8 +61,7 @@ $\sum^\infty_n x^n = 1/(1 - x) for |x| < 1$
 and  
 $\sum^N_n x^n = 1 - x^{N+1}/(1 - x) for all x$  
 8. Binominal theorem  
-$(x + y)^N = \sum^N_{n=0}\binom{N}{n}x^{N-n}y^n$  
-$ = {(N!)\over n!(N-n)} {x^{N-n}y^n}$  
+$(x + y)^N = \sum^N_{n=0}\binom{N}{n}x^{N-n}y^n = {(N!)\over n!(N-n)} {x^{N-n}y^n}$  
 9. Power series for the exponential  
 $e^x = \sum^\infty_{n=0}{1\over n!}x^n$  
 10. Relation of trig functions to exponentials
