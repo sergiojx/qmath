@@ -59,7 +59,7 @@ $x^2 - a^2 = (x + a)(x - a)$
 7. Geometric series  
 $\sum^\infty_n x^n = {1\over(1 - x)} for |x| < 1$  
 and  
-$\sum^N_n x^n = 1 - x^{N+1}/(1 - x) for\space all\space x$  
+$\sum^N_n x^n = {1 - x^{N+1}\over(1 - x)} for\space all\space x$  
 8. Binominal theorem  
 $(x + y)^N = \sum^N_{n=0}\binom{N}{n}x^{N-n}y^n = {(N!)\over n!(N-n)!} {x^{N-n}y^n}$  
 9. Power series for the exponential  
