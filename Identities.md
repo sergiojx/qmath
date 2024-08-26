@@ -57,7 +57,7 @@ Half-angle formulas are very useful in trigonometry for simplifying expressions 
 6. Factorization of the difference of squares  
 $x^2 - a^2 = (x + a)(x - a)$  
 7. Geometric series  
-$\sum^\infty_n x^n = 1/(1 - x) for |x| < 1$  
+$\sum^\infty_n x^n = {1\over(1 - x)} for |x| < 1$  
 and  
 $\sum^N_n x^n = 1 - x^{N+1}/(1 - x) for\space all\space x$  
 8. Binominal theorem  
